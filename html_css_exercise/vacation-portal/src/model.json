@@ -1,0 +1,17 @@
+{
+    "id":"d256dd29e04269b28ec3071d",
+    "username":"anish_mondal",
+    "email":"anish_mondal@epam.com",
+    "currentProjectId":"b131ba5e89f541ffdd576ad0b16aec3ea62fc4ed",
+    "totalRegularVacation":"12",
+    "totalOvertimeVacation":"4",
+    "totalSickLeaves":"5",
+    "appliedVacation":[
+        {
+            "vacationId":"e22f67e442f1e792840c909b",
+            "date":"14/01/2025",
+            "reason":"",
+            "status":"approved"
+        }
+    ]
+}
